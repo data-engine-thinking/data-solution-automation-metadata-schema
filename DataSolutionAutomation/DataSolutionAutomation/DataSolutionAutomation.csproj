@@ -7,6 +7,7 @@
     <Version>2.1.0</Version>
     <Authors>Roelant Vos</Authors>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageLicenseExpression>LGPL-3.0-or-later</PackageLicenseExpression>
     <Title>Data Solution Automation</Title>
     <PackageProjectUrl>https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema</PackageProjectUrl>
     <PackageIcon>Ravos-logo.png</PackageIcon>
