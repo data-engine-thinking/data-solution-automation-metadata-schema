@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json",
+  "$id": "https://raw.githubusercontent.com/data-solution-automation-engine/data-solution-automation-metadata-schema/main/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json",
   "title": "Schema for data solution code generation (v2.1).",
   "description": "Standardized format for the metadata required to generate data logistics (ETL) and object creation (DDL) for Data Solutions such as a Data Warehouse or Data Lake. The intent is to decouple how individual software stores Data Solution Automation metadata from how this metadata is exchanged with other components, technologies, and solutions for data processing and structure generation.",
   "type": "object",
