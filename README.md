@@ -1,4 +1,4 @@
-> **_NOTE:_**  the formal [Data Solution Automation Schema documentation]([https://data-solution-automation-engine.github.io/data-solution-automation-metadata-schema/](https://data-engine-thinking.github.io/data-solution-automation-metadata-schema/) is now available as a website.
+> **_NOTE:_**  the formal [Data Solution Automation Schema documentation]([https://data-solution-automation-engine.github.io/data-solution-automation-metadata-schema/](https://data-engine-thinking.github.io/data-solution-automation-metadata-schema/]) is now available as a website.
 
 ---
 
