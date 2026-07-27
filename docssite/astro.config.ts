@@ -2,7 +2,7 @@ import starlight from '@astrojs/starlight';
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://data-solution-automation-engine.github.io',
+  site: 'https://data-engine-thinking.github.io',
   base: '/data-solution-automation-metadata-schema',
   outDir: 'dist',
   devToolbar: {
@@ -23,7 +23,7 @@ export default defineConfig({
         {
           icon: 'github',
           label: 'GitHub',
-          href: 'https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema',
+          href: 'https://github.com/data-engine-thinking/data-solution-automation-metadata-schema',
         },
       ],
       sidebar: [
