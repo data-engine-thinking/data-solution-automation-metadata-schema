@@ -19,7 +19,7 @@ The decision to start the format with an array of Data Object Mappings relates t
 
 For example, consider the loading of a Core Business Concept ('Hub') type entity from various different data sources. If you would use these different mappings to generate ETL processes you would create one physical ETL object for each mapping. However, if you are generating a view that represents the target table you would use the collection (list) of mappings to generate separate statements that are 'unioned' in a single view object.
 
-Example: [sampleBasic.json](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/Sample_Metadata/sampleBasic.json).
+Example: [sampleBasic.json](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/Sample_Metadata/sampleBasic.json).
 
 A simplified example of a single Data Object Mapping (with one source, one target, and a single Data Item Mapping):
 

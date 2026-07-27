@@ -5,7 +5,7 @@ description: 'Used to define a list of classifications (labels) and notes to add
 
 Used to define a list of classifications (labels) and notes to add to various components of the schema definition.
 
-> **Source of truth:** [DataClassification.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataClassification.cs)
+> **Source of truth:** [DataClassification.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataClassification.cs)
 
 ## Optional properties
 

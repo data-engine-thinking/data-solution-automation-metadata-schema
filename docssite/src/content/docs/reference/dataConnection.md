@@ -5,7 +5,7 @@ description: 'Connectivity information, that can be used for either a DataObject
 
 Connectivity information, that can be used for either a DataObject or DataObjectQuery. This is be a key, token, reference, connection string and similar.
 
-> **Source of truth:** [DataConnection.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataConnection.cs)
+> **Source of truth:** [DataConnection.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataConnection.cs)
 
 ## Optional properties
 

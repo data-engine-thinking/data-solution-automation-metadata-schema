@@ -216,7 +216,7 @@ function renderMdx(parsed) {
   body += `description: '${escapeFrontmatter(description)}'\n`;
   body += `---\n\n`;
   body += `${escapeMdx(classSummary)}\n\n`;
-  body += `> **Source of truth:** [${parsed.fileName}](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/${parsed.fileName})\n\n`;
+  body += `> **Source of truth:** [${parsed.fileName}](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/${parsed.fileName})\n\n`;
 
   if (required.length > 0) {
     body += `## Required properties\n\n`;
@@ -253,7 +253,7 @@ function renderIndex(parsedClasses) {
   body += `description: Generated reference for every type in the Data Solution Automation schema.\n`;
   body += `sidebar:\n  order: 0\n`;
   body += `---\n\n`;
-  body += `The schema is defined in C# at [\`DataSolutionAutomation/DsaModel\`](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/tree/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel) and shipped as [\`DataSolutionAutomation\`](https://www.nuget.org/packages/DataSolutionAutomation) on NuGet. The pages here are generated directly from those C# files - the C# library is the canonical description, and the JSON Schema file at [\`GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json\`](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json) mirrors the same shape for validation.\n\n`;
+  body += `The schema is defined in C# at [\`DataSolutionAutomation/DsaModel\`](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/tree/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel) and shipped as [\`DataSolutionAutomation\`](https://www.nuget.org/packages/DataSolutionAutomation) on NuGet. The pages here are generated directly from those C# files - the C# library is the canonical description, and the JSON Schema file at [\`GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json\`](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json) mirrors the same shape for validation.\n\n`;
   body += `## Types\n\n`;
   const sorted = [...parsedClasses].sort((a, b) => a.className.localeCompare(b.className));
   for (const p of sorted) {

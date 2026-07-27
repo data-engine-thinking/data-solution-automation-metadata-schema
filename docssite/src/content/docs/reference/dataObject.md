@@ -5,7 +5,7 @@ description: 'The definition of a data set, file, or table. A Data Object can be
 
 The definition of a data set, file, or table. A Data Object can be the source or target in a `DataObjectMapping`. A Data Object can also represent a query (a view, script, or procedure) by setting `QueryCode` and optionally `QueryLanguage`.
 
-> **Source of truth:** [DataObject.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataObject.cs)
+> **Source of truth:** [DataObject.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataObject.cs)
 
 ## Optional properties
 

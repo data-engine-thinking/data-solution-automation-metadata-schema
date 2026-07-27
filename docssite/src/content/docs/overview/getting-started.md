@@ -5,7 +5,7 @@ sidebar:
   order: 1
 ---
 
-First and foremost, refer to the [GitHub repository](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema) for any work in progress including documentation and discussions. This page provides a brief introduction and helps interested parties to get started generating their own code quickly - but the GitHub should always be the first go-to resource for questions, comments and suggestions.
+First and foremost, refer to the [GitHub repository](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema) for any work in progress including documentation and discussions. This page provides a brief introduction and helps interested parties to get started generating their own code quickly - but the GitHub should always be the first go-to resource for questions, comments and suggestions.
 
 ## How can I use the schema?
 

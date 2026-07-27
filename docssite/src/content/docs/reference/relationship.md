@@ -5,7 +5,7 @@ description: 'A relationship from one Data Object to another. This can apply at 
 
 A relationship from one Data Object to another. This can apply at conceptual, logical, and physical levels. Supports lineage relationships (e.g. parent/child), foreign keys, and sub/supertypes.
 
-> **Source of truth:** [Relationship.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/Relationship.cs)
+> **Source of truth:** [Relationship.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/Relationship.cs)
 
 ## Optional properties
 

@@ -5,7 +5,7 @@ description: 'Data items belong to data objects. They describe the individual el
 
 Data items belong to data objects. They describe the individual elements, such as the columns in a table or headers in a file. A Data Item can also represent a query expression (a calculated column) by setting `QueryCode` and optionally `QueryLanguage`.
 
-> **Source of truth:** [DataItem.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataItem.cs)
+> **Source of truth:** [DataItem.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataItem.cs)
 
 ## Optional properties
 

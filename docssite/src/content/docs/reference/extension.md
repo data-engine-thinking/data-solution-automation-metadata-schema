@@ -5,7 +5,7 @@ description: 'A free form key/value pair addition that can contain additional co
 
 A free form key/value pair addition that can contain additional context.
 
-> **Source of truth:** [Extension.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/Extension.cs)
+> **Source of truth:** [Extension.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/Extension.cs)
 
 ## Optional properties
 

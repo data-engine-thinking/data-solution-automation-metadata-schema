@@ -5,7 +5,7 @@ description: 'The individual column-to-column mapping between source and target 
 
 The individual column-to-column mapping between source and target Data Items.
 
-> **Source of truth:** [DataItemMapping.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataItemMapping.cs)
+> **Source of truth:** [DataItemMapping.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataItemMapping.cs)
 
 ## Optional properties
 

@@ -5,7 +5,7 @@ description: 'A business key definition is a special object that is defined as a
 
 A business key definition is a special object that is defined as an optional property of a data object mapping. It captures how a business key is composed from one or more `BusinessKeyComponent`s, each referencing a Data Item.
 
-> **Source of truth:** [BusinessKeyDefinition.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/BusinessKeyDefinition.cs)
+> **Source of truth:** [BusinessKeyDefinition.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/BusinessKeyDefinition.cs)
 
 ## Required properties
 

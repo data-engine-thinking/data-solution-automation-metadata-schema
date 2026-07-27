@@ -5,7 +5,7 @@ description: 'A lightweight, identifier-based variant of `DataItemMapping` for u
 
 A lightweight, identifier-based variant of `DataItemMapping` for use inside a `Relationship`. Instead of embedding the full source and target Data Items (which already live elsewhere in the mapping), this form references them by Id only - typical for foreign-key style relationships.
 
-> **Source of truth:** [DataItemMappingRef.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataItemMappingRef.cs)
+> **Source of truth:** [DataItemMappingRef.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataItemMappingRef.cs)
 
 ## Optional properties
 

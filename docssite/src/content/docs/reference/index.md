@@ -5,7 +5,7 @@ sidebar:
   order: 0
 ---
 
-The schema is defined in C# at [`DataSolutionAutomation/DsaModel`](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/tree/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel) and shipped as [`DataSolutionAutomation`](https://www.nuget.org/packages/DataSolutionAutomation) on NuGet. The pages here are generated directly from those C# files - the C# library is the canonical description, and the JSON Schema file at [`GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json`](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json) mirrors the same shape for validation.
+The schema is defined in C# at [`DataSolutionAutomation/DsaModel`](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/tree/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel) and shipped as [`DataSolutionAutomation`](https://www.nuget.org/packages/DataSolutionAutomation) on NuGet. The pages here are generated directly from those C# files - the C# library is the canonical description, and the JSON Schema file at [`GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json`](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json) mirrors the same shape for validation.
 
 ## Types
 

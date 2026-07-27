@@ -10,7 +10,7 @@ hero:
       link: ./overview/getting-started/
       icon: right-arrow
     - text: View on GitHub
-      link: https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema
+      link: https://github.com/data-engine-thinking/data-solution-automation-metadata-schema
       icon: external
       variant: minimal
 ---

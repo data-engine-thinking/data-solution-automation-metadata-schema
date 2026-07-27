@@ -5,7 +5,7 @@ description: 'An individual component of a `BusinessKeyDefinition`. A business k
 
 An individual component of a `BusinessKeyDefinition`. A business key is composed of one or more components, each referencing a Data Item. The ordinal position records the order of the components within the business key, which can be meaningful.
 
-> **Source of truth:** [BusinessKeyComponent.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/BusinessKeyComponent.cs)
+> **Source of truth:** [BusinessKeyComponent.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/BusinessKeyComponent.cs)
 
 ## Required properties
 

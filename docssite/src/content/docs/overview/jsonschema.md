@@ -9,7 +9,7 @@ The **interface for data solution automation metadata** provides an agreed (cano
 
 This aims to facilitate greater interoperability between various data solution / data solution automation and data logistics generation approaches and ecosystems.
 
-The schema definition can be viewed [here](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json), and is part of [this GitHub repository](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema). The repository contains supporting components such as:
+The schema definition can be viewed [here](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/GenericInterface/interfaceDataSolutionAutomationMetadataV2_1.json), and is part of [this GitHub repository](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema). The repository contains supporting components such as:
 
 - A class library (`DataSolutionAutomation.dll`) that implements the schema structure and includes a validation function to test JSON files / messages against the schema.
 - Starter documentation.

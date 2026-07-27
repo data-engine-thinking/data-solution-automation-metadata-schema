@@ -5,7 +5,7 @@ description: 'The mapping between a source and target data set, table, or file. 
 
 The mapping between a source and target data set, table, or file. The DataObjectMapping defines an individual source-to-target mapping (an ETL process). It connects one or more `DataObject` sources to a single `DataObject` target, with `DataItemMapping`s describing the column-to-column transformations. SourceDataObjects, TargetDataObject, and DataItemMappings are the core elements of a DataObjectMapping.
 
-> **Source of truth:** [DataObjectMapping.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataObjectMapping.cs)
+> **Source of truth:** [DataObjectMapping.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/DataObjectMapping.cs)
 
 ## Optional properties
 

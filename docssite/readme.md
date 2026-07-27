@@ -35,4 +35,4 @@ node scripts/generate-schema-reference.mjs
 ## Deployment
 
 Built and deployed to GitHub Pages by `.github/workflows/docs.yml` on every push to `main`.
-Site URL: https://data-solution-automation-engine.github.io/data-solution-automation-metadata-schema/
+Site URL: https://data-engine-thinking.github.io/data-solution-automation-metadata-schema/

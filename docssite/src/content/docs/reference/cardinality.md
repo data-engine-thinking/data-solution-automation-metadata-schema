@@ -5,7 +5,7 @@ description: 'Captures the cardinality and ordinality of a relationship. Cardina
 
 Captures the cardinality and ordinality of a relationship. Cardinality defines the number of occurrences of one entity that are associated with the number of occurrences of another entity through a relationship.
 
-> **Source of truth:** [Cardinality.cs](https://github.com/data-solution-automation-engine/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/Cardinality.cs)
+> **Source of truth:** [Cardinality.cs](https://github.com/data-engine-thinking/data-solution-automation-metadata-schema/blob/main/DataSolutionAutomation/DataSolutionAutomation/DsaModel/Cardinality.cs)
 
 ## Optional properties
 
