@@ -33,22 +33,22 @@ export default defineConfig({
         },
         {
           label: 'Overview',
-          autogenerate: { directory: 'overview' },
+          items: [{ autogenerate: { directory: 'overview' } }],
         },
         {
           label: 'Schema Reference',
           collapsed: true,
-          autogenerate: { directory: 'reference' },
+          items: [{ autogenerate: { directory: 'reference' } }],
         },
         {
           label: 'Handlebars Helpers',
           collapsed: true,
-          autogenerate: { directory: 'handlebars' },
+          items: [{ autogenerate: { directory: 'handlebars' } }],
         },
         {
           label: 'FAQ',
           collapsed: true,
-          autogenerate: { directory: 'faq' },
+          items: [{ autogenerate: { directory: 'faq' } }],
         },
       ],
     }),
