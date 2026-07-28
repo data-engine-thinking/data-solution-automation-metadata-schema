@@ -1,0 +1,10 @@
+allowBuilds:
+  esbuild: set this to true or false
+overrides:
+  # Force patched fast-uri (fixes CVE-2025-27210 / CVE-2025-59139: host confusion via
+  # literal backslash authority delimiter, and IDN canonicalization). 3.1.2 lives deep
+  # under @astrojs/check -> language-server -> volar-service-yaml -> yaml-language-server -> ajv.
+  fast-uri: ^3.1.4
+  # Force patched yaml (fixes CVE-2024-53908: stack overflow on deeply nested collections).
+  # volar-service-yaml pulls in the vulnerable 2.7.1; vite already ships a safe 2.9.0.
+  yaml: ^2.8.3
